@@ -5,6 +5,7 @@
 
 ## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />Clark #ms314006
 
+## 👀 About me
 - 🇹🇼 Hi, I'm Jolene! I'm leaving in Taiwan now.
 - 👯 I enjoy interacting with people, exploring my surroundings, and have a strong curiosity for unknown domains.
 - 💻 I am proficient in Python, R, and SAS, possessing skills in data analysis, data visualization, deep learning and SQL. I thoroughly enjoy the pleasure that data analysis brings.
