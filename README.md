@@ -17,5 +17,5 @@
 - SAS
 
 ## 🔗 Get in touch
-- Personal site: http://ccJolene.github.io/
+- Personal site: [http://ccJolene.github.io/](https://github.com/ccJolene)
 - E-mail: yun82c@gmail.com
