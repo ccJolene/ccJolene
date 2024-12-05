@@ -14,6 +14,7 @@
 ### 📚 Langues and Frameworks
 - Python
 - R
+- SQL
 - SAS
 
 ## 🔗 Get in touch
